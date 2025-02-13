@@ -4,7 +4,7 @@
   "lastUpdated": "2020-03-15T02:01:00+02:00",
   "shortFormVideos": [
     {
-      "longDescription": "Learn how streaming works on the Roku platform. This video explains how content is delivered from a content delivery network (CDN) to a Roku device via a content feed",
+      "longDescription": "Elizabeth Sparkle (Demi Moore), famosa por su rutina de ejercicios, sufre un golpe devastador en su 50 cumpleaños cuando su jefe la despide. En medio de su terrible experiencia, un laboratorio le ofrece una sustancia que promete transformarla en una versión mejorada de su yo de veinte años. ¿La única regla? Los tiempos deben dividirse: exactamente una semana en un cuerpo, luego una semana en el otro cuerpo. Sin excepciones. Equilibrio perfecto. ¿Qué podría salir mal?",
       "thumbnail": "https://raw.githubusercontent.com/fitorays/testfito/refs/heads/main/streaming-overview.jpg",
       "releaseDate": "2020-01-15",
       "genres": [
@@ -14,14 +14,14 @@
         "getting-started"
       ],
       "id": "shortform-roku-streaming-overview",
-      "shortDescription": "Learn how streaming works on the Roku platform. This video explains how content is delivered from a content delivery network (CDN) to a Roku device via a content feed",
+      "shortDescription": "Elizabeth Sparkle, una gurú del fitness, es despedida en su 50 cumpleaños. Un laboratorio le ofrece una sustancia para rejuvenecer, pero con una condición: alternar cada semana entre su yo de 50 y de 20 años. ¿Qué podría salir mal?",
       "title": "Streaming overview",
       "content": {
         "duration": 100,
         "videos": [
           {
             "videoType": "MP4",
-            "url": "https://drive.google.com/uc?export=download&id=1GQfJ7sRSd96ZPMZKu4dImUZ4dtQ2sDPS",
+            "url": "https://geogroup.cl/borrar/SS1589SS.mp4",
             "quality": "HD"
           }
         ],
