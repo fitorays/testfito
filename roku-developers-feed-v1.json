@@ -56,8 +56,8 @@
       }
     },
     {
-      "longDescription": "Tenemos que hablar de Kevin (2011) es un thriller psicológico sobre Eva (Tilda Swinton), una madre que lidia con la culpa tras un acto violento de su hijo Kevin (Ezra Miller). A través de una narración fragmentada, la película explora su tensa relación y cuestiona si la maldad es innata o aprendida.",
-      "thumbnail": "https://raw.githubusercontent.com/fitorays/testfito/refs/heads/main/road_hero.jpg",
+      "longDescription": "El FBI busca a ‘Buffalo Bill’, un asesino en serie que arranca la piel de sus víctimas. Para atraparlo, la agente en formación Clarice Starling recurre a Hannibal Lecter, un brillante pero peligroso asesino y expsicoanalista, con la esperanza de obtener información sobre el criminal.",
+      "thumbnail": "https://raw.githubusercontent.com/fitorays/testfito/refs/heads/main/silence.jpg",
       "releaseDate": "2020-01-17",
       "genres": [
         "educational"
@@ -66,14 +66,14 @@
         "getting-started"
       ],
       "id": "shortform-a893e770b636f6459dcf027fe361cd49d7ac44c2",
-      "shortDescription": "Steps for enabling Developer Mode on a Roku device",
-      "title": "Enabling Developer Mode",
+      "shortDescription": "El FBI busca a ‘Buffalo Bill’, un asesino en serie que arranca la piel de sus víctimas",
+      "title": "El silencio de los inocentes",
       "content": {
         "duration": 120,
         "videos": [
           {
             "videoType": "MP4",
-            "url": "https://geogroup.cl/borrar/kevin.mp4",
+            "url": "https://geogroup.cl/borrar/silencio.mp4",
             "quality": "HD"
           }
         ],
@@ -92,8 +92,8 @@
         "feature"
       ],
       "id": "shortform-4be9d883d51ca3161c780d261c3e1ef480e7e56d",
-      "shortDescription": "Video highlighting Direct to Play and Enhanced Voice Control features",
-      "title": "Voice Features",
+      "shortDescription": "Tenemos que hablar de Kevin",
+      "title": "Tenemos que hablar de Kevin",
       "content": {
         "duration": 98,
         "videos": [
